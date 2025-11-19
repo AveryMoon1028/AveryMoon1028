@@ -1,16 +1,33 @@
 ## Hi there 👋
+I am a student in ICD2O, learning programming and web development. I have been exploring Python, Java, HTML, CSS, and JavaScript to build small projects and improve my skills.
 
-<!--
-**AveryMoon1028/AveryMoon1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming Languages
 
-Here are some ideas to get you started:
+Python
+Java
+HTML/CSS
+JavaScript
+Operating Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Windows
+MacOS
+Tools
+
+GitHub
+Project name: Pizza Ordering App
+Calculates pizza costs using input, variables, and conditionals.
+Skills used: Python, variables, conditionals, user input
+(https://colab.research.google.com/drive/11SH4PH9lc95L7UdHbIj3jvNmRKZTeLUj)
+Project name: Grade Calculator
+Calculates letter grades from numerical scores using conditionals.
+Python, input/output, functions
+(https://colab.research.google.com/drive/1gF0pv8GBulyQmV-_tKEHzplsvCCYIbP5)
+Project name: Hello, World!
+Displays "Hello, World!" on the screen using Python.
+Python, print function, basic output
+(https://colab.research.google.com/drive/1J_kLu3caK81aWffkUceENMdsIl3DEwVM)
+Project name:
+Project name: Looping Pattern
+Prints a star pattern using loops in Python.
+Python, loops, iteration, string multiplication
+(https://colab.research.google.com/drive/1gF0pv8GBulyQmV-_tKEHzplsvCCYIbP5)
